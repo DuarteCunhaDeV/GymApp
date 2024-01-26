@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:gym_application/components/my_button.dart';
-import 'package:gym_application/components/my_logo.dart';
-import 'package:gym_application/components/my_textfield.dart';
+import 'package:flutter_app/components/my_button.dart';
+import 'package:flutter_app/components/my_logo.dart';
+import 'package:flutter_app/components/my_textfield.dart';
 
 //dad
 void main() {
